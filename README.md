@@ -1,1 +1,1 @@
-# JMR_Pr-tica_IA
+# JMR_Pratica_IA
